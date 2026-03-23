@@ -1,0 +1,81 @@
+import '../medical_center.dart';
+
+const List<MedicalCenter> bloodBanks = [
+  MedicalCenter(
+    name: 'Indian Red Cross Society Blood Bank',
+    phoneNumbers: ['011-23716441'],
+    location: 'Connaught Place, New Delhi',
+    latitude: 28.632700,
+    longitude: 77.219800,
+  ),
+  MedicalCenter(
+    name: 'AIIMS Blood Bank',
+    phoneNumbers: ['011-26588700'],
+    location: 'Ansari Nagar, New Delhi',
+    latitude: 28.568100,
+    longitude: 77.210300,
+  ),
+  MedicalCenter(
+    name: 'KEM Hospital Blood Bank',
+    phoneNumbers: ['022-24107592'],
+    location: 'Parel, Mumbai',
+    latitude: 19.000500,
+    longitude: 72.841200,
+  ),
+  MedicalCenter(
+    name: 'Rotary Blood Bank Mumbai',
+    phoneNumbers: ['022-23027300'],
+    location: 'Sion, Mumbai',
+    latitude: 19.039200,
+    longitude: 72.860500,
+  ),
+  MedicalCenter(
+    name: 'Bangalore Blood Bank',
+    phoneNumbers: ['080-22868758'],
+    location: 'Shivajinagar, Bangalore',
+    latitude: 12.985600,
+    longitude: 77.600400,
+  ),
+  MedicalCenter(
+    name: 'Rotary TTK Blood Bank Bangalore',
+    phoneNumbers: ['080-25320750'],
+    location: 'Millers Road, Bangalore',
+    latitude: 12.991800,
+    longitude: 77.587300,
+  ),
+  MedicalCenter(
+    name: 'Chennai Blood Bank',
+    phoneNumbers: ['044-28193999'],
+    location: 'Kilpauk, Chennai',
+    latitude: 13.083400,
+    longitude: 80.237700,
+  ),
+  MedicalCenter(
+    name: 'Government Blood Bank Hyderabad',
+    phoneNumbers: ['040-24600120'],
+    location: 'Nampally, Hyderabad',
+    latitude: 17.393700,
+    longitude: 78.472700,
+  ),
+  MedicalCenter(
+    name: 'SSKM Blood Bank Kolkata',
+    phoneNumbers: ['033-22041956'],
+    location: 'AJC Bose Road, Kolkata',
+    latitude: 22.536600,
+    longitude: 88.344400,
+  ),
+  MedicalCenter(
+    name: 'Civil Hospital Blood Bank Ahmedabad',
+    phoneNumbers: ['079-22681234'],
+    location: 'Asarwa, Ahmedabad',
+    latitude: 23.054400,
+    longitude: 72.604600,
+  ),
+  MedicalCenter(
+    name: 'Jankalyan Blood Bank Pune',
+    phoneNumbers: ['020-24484747'],
+    location: 'Navi Peth, Pune',
+    latitude: 18.516300,
+    longitude: 73.857900,
+  ),
+];
